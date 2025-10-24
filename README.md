@@ -1,7 +1,6 @@
 
  Norling Store Annual Sales Report 2022
 Description: This project is an in-depth Excel analysis of Norling Store's 2022 sales data, transforming raw transaction data into actionable insights. As a data analyst, I cleaned, processed, and visualized the data to help the store understand customer behavior, identify trends, and strategize for growth in 2023. The report includes interactive dashboards, pivot tables, and charts to make complex data accessible.
-Duration: [e.g., 2 weeks, from data collection to final report]
 Role: Sole analyst, handling data wrangling, analysis, and visualization.
 Tools Used: Microsoft Excel (pivot tables, charts, conditional formatting, VLOOKUP, formulas like SUMIF and COUNTIF); optional: Power Query for data import if advanced.
 Data Source: Simulated/real sales transactions dataset (e.g., 10,000+ rows with columns: Order ID, Date, Gender, Age, State, Channel, Category, Amount, Status).
